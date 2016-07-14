@@ -1,0 +1,1 @@
+wget -O AVPTool.exe https://cdn.itroad.ru/wp-content/uploads/2012/01/avptool.exe
